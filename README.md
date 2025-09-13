@@ -1,4 +1,6 @@
 # Single Image Based Face Morphing Attack Detection Using Vision Transformer and SVM
+Previously released at:
+https://share.nbl.nislab.no/HaoyuZhang/single-image-based-morphing-attack-detection-using-vit-and-svm
 
 # Requirement
 For details, please check [requirements.txt](./requirements.txt)
@@ -76,5 +78,6 @@ This script will generate a txt file containing filename and scores, which can b
     pages     = {1510-1518}
 }
 ```
+
 
 
